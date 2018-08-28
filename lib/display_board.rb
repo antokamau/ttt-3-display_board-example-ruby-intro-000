@@ -6,5 +6,5 @@ puts "-----------"
 puts "   |   |   "
 puts "-----------"
 puts "   |   |   "
-puts "What move would X like to make (1-9)?"
+print "3 * 3 tic tac toe board"
 end
