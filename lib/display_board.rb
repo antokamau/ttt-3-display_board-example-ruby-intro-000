@@ -6,5 +6,4 @@ puts "-----------"
 puts "   |   |   "
 puts "-----------"
 puts "   |   |   "
-print "3 * 3 tic tac toe board"
 end
