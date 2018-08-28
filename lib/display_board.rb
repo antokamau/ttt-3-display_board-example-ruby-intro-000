@@ -1,4 +1,9 @@
 # Define a method display_board that prints a 3x3 Tic Tac Toe Board
 def display_board
-  print "I like learning ruby"
+  puts "Welcome to Tic Tac Toe"
+  print " ", | , " ", | " "
+  puts "--------------------"
+  print " ", | , " ", | " "
+  puts "--------------------"
+  print " ", | , " ", | " "
 end
